@@ -1,7 +1,7 @@
 ---
 title: Oriane Girard
 role: PhD student in visual anthropology
-bio: "My research interests include "
+bio: My research interests include  dsq
 interests:
   - Artificial Intelligence
   - Computational Linguistics
