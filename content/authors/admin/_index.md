@@ -1,11 +1,12 @@
 ---
 title: Oriane Girard
-role: PhD student in visual anthropology
-bio: My research interests include  dsq
+role: PhD Student in Visual Anthropology
+avatar_filename: rz_ppa9421.jpg
+bio: "My research interests include the history of photography, balkanology and
+  Albanian ethnology. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - History and ethnography of The Balkans
+  - particularly Albania.
 social: []
 organizations:
   - name: AMU
@@ -22,6 +23,12 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+PhD Student at the Institute of Mediterranean, European and Comparative Ethnology (Idemec) of Aix-Marseille Université / CNRS, and the Ecole française d'Athènes. 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I specialized in museology and the history of photography at the Ecole du Louvre and St. Andrews University, Scotland. From 2019 to 2021, she worked with indigenous communities of the Laguna Blanca Biosphere Reserve, in the Andean Precordillera of Northwestern Argentina, within the museum and Anthropology laboratory of the National University of Catamarca.
+
+M﻿y current research focuses on the ethnographic ways and means of the collecting of photographs in Albania during the second half of the 20th century by comparatively approaching French, Greek and Albanian corpus. The questions posed by the anthropological construction of otherness and the photographic relationship that is established during the ethnographic encounter are at the heart of my reflection. 
+
+By opting for the study of photographic collections produced in the institutional bosom of the discipline, museums, I attempt to restore a situated history of photographic relationships that reconfigure the permanent oscillation of the reciprocal positions of investigators and investigated. 
+
+I﻿n the frame of my thesis research, I would like to examine the polysemy of so-called “ethnographic” photographs by questioning their scientific value granted to them when manipulated as objects bearing objective truths.
