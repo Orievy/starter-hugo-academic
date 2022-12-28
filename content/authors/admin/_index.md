@@ -7,9 +7,13 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social: []
-organizations: []
+organizations:
+  - name: AMU
 education:
-  courses: []
+  courses:
+    - course: Phd Student
+      institution: AMU
+      year: ""
 superuser: true
 status:
   icon: ☕️
