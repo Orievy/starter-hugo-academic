@@ -26,8 +26,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-PhD Student at the Institute of Mediterranean, European and Comparative Ethnology (Idemec) of Aix-Marseille Université / CNRS, and the Ecole française d'Athènes. 
-
 I specialized in museology and the history of photography at the Ecole du Louvre and St. Andrews University, Scotland. From 2019 to 2021, she worked with indigenous communities of the Laguna Blanca Biosphere Reserve, in the Andean Precordillera of Northwestern Argentina, within the museum and Anthropology laboratory of the National University of Catamarca.
 
 M﻿y current research focuses on the ethnographic ways and means of the collecting of photographs in Albania during the second half of the 20th century by comparatively approaching French, Greek and Albanian corpus. The questions posed by the anthropological construction of otherness and the photographic relationship that is established during the ethnographic encounter are at the heart of my reflection. 
