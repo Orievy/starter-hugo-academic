@@ -26,7 +26,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I specialized in Museum Studies and History of Photography at the Ecole du Louvre and St. Andrews University, Scotland. From 2019 to 2021, I worked with indigenous communities of the Laguna Blanca Biosphere Reserve, in the Andean Precordillera of Northwestern Argentina, within the National University of Catamarca Department of Anthropology. 
+I specialized in Museum Studies and History of Photography at the Ecole du Louvre, Paris, and St. Andrews University, Scotland. From 2019 to 2021, I worked with indigenous communities of the Laguna Blanca Biosphere Reserve, in the Andean Precordillera of Northwestern Argentina, within the National University of Catamarca Department of Anthropology.  
 
 M﻿y current research focuses on the ethnographic ways and means of the collecting of photographs in Albania during the second half of the 20th century by comparatively approaching French, Greek and Albanian corpus. The issue of an anthropological making of "otherness" and the photographic relationship that is established during the ethnographic encounter are at the heart of my reflection. 
 
