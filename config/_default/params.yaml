@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year}.
+    notice: '© {year}.'
     license:
       enable: false
       allow_derivatives: false
