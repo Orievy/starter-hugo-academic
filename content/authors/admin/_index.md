@@ -9,7 +9,10 @@ interests:
   - particularly Albania.
 social: []
 organizations:
-  - name: AMU
+  - name: Institut d'ethnologie méditerranéenne, européenne et comparative (Idemec)
+    url: https://www.idemec.cnrs.fr/spip.php?article1723&lang=fr
+  - name: Ecole française d'Athènes
+    url: https://www.efa.gr/fr/formation-a-la-recherche/contrat-doctoral/liste-des-beneficiaires-d-un-contrat-doctoral?highlight=WyJvcmlhbmUiLCJnaXJhcmQiLCJwaG90b2dyYXBoaWVyIiwicGhvdG9ncmFwaGllIiwicGhvdG9ncmFwaCIsIm9yaWFuZSBnaXJhcmQiLCJvcmlhbmUgZ2lyYXJkIHBob3RvZ3JhcGhpZXIiLCJnaXJhcmQgcGhvdG9ncmFwaGllciJd
 education:
   courses:
     - course: Phd Student
