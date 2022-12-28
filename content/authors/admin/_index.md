@@ -1,6 +1,6 @@
 ---
 title: Oriane Girard
-role: ""
+role: PhD student in visual anthropology
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
